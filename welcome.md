@@ -6,7 +6,7 @@ We can make each tutorial as a Jupyter notebook and serve all tutorials as Jupyt
 
 This will be very useful for professors teaching Data Science as we can also add interactivity to each Jupyter notebook.
 
-You can start this by doing pip install mljar-mercury
+You can start this by installing mercury. Just do 'pip install mljar-mercury'.
 
 Find more about mercury here in the [official documentation](https://mercury-docs.readthedocs.io/en/latest/)
 
